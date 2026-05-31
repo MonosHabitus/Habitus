@@ -2,8 +2,7 @@
 
 ```
 ████████████████████████████████████████████████████
-█  ◈ AUTODIDACT — SYSTÈME DE PARCOURS D'APPRENTISSAGE
-█  Style terminal / Matrix — Pour autodidactes
+  ◈ AUTODIDACT — SYSTÈME DE PARCOURS D'APPRENTISSAGE
 ████████████████████████████████████████████████████
 ```
 
@@ -45,7 +44,7 @@ python main.py
 ```
 
 ### ◈ Visionneur intégré
-- **Wikipedia** : contenu complet via API (pas de pub, pas de distraction)
+- **Wikipedia** : contenu complet via API 
 - **YouTube** : transcript automatique + lecteur intégré (avec `tkinterweb`)
 - **ArXiv** : résumé et métadonnées des papiers scientifiques
 - **Articles web** : extraction intelligente du texte principal
